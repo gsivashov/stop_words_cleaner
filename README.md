@@ -35,8 +35,11 @@ You can add whatever stopword file you whant. Script is not hardcoded to anythin
 Required arguments:
 
 `--row` - index of row with keywords. Reminder: index starts from zero
+
 `--file` - path to file with keywords
+
 `--good` - path to file where good pharses will be stored
+
 `--bad` - path to file where exclusion pharses will be stored
 
 Supported arguments:
