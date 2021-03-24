@@ -43,7 +43,9 @@ Required arguments:
 `--bad` - path to file where exclusion pharses will be stored
 
 Supported arguments:
+
 `--stopwords` - path to stopwords file. By default it's: `stopwords.txt`
+
 `--delimiter` - specify delimiter for start file. By default it's: `|`
 
 Usage example:
